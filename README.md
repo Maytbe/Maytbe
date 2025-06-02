@@ -1,6 +1,6 @@
 - # 🌟 ¡Hola, mundo!  
 
-## ⚡ ¿Tapasiona el emprendimiento, la tecnología y la creatividad?
+## ⚡ ¿Te apasiona el emprendimiento, la tecnología y la creatividad?
 ✨ ¿Quieres saber algo de mi? Mientras nos vamos conociendo 😍 ¡Te parece!
 👉Apasionada del **marketing, la comunicación y el emprendimiento**, y una mente inquieta que siempre está en busca de nuevos retos. ‼️ 
 🔗¡Hagamos algo juntos! 
@@ -34,15 +34,15 @@ Soy una apasionada del **Desarrollo de Aplicaciones Web**, con una sólida forma
 - 🎯 Itinerario Personal para la Empleabilidad I  
 - ⚙️ Digitalización Aplicada al Sistema Productivo  
 
-📜 Consulta los documentos legales sobre la formación FP y asignaturas [aquí](https://sites.google.com/view/fplaconservera)  
+📜 Puedes consultar sobre la formación FP y asignaturas [aquí](https://sites.google.com/view/fplaconservera)  
 
-## 🛠️ Stack Tecnológico  
+## 🛠️ Apartado Tecnológico  
 
 ### 🔹 **Conocimientos previos**  
 - HTML | CSS | JavaScript  
 - VSCode  
 
-### 🔹 **Stack del curso**  
+### 🔹 **Conocimiento que adquiero con este curso**  
 **Frameworks y Librerías**: React | Node.js | Express | Angular | Spring Boot  
 **Bases de Datos**: MongoDB | Docker | MySQL | PostgreSQL  
 **Entornos de Desarrollo**: Visual Studio Code | Eclipse | NetBeans  
