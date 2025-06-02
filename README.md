@@ -1,8 +1,7 @@
 - # 🌟 ¡Hola, mundo!  
-
-## ⚡ ¿Si te apasiona el emprendimiento, la tecnología y la creatividad?
-
-## ✨ ¿Quieres saber algo de mi? Mientras nos vamos conociendo 😍 ¡Te parece!
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen](https://www.canva.com/design/DAGpMGcMZuM/BVtNecmaojUEzwaOJkZMLA/watch?utm_content=DAGpMGcMZuM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hb739973491)></iframe>
+## ⚡ ¿Tapasiona el emprendimiento, la tecnología y la creatividad?
+✨ ¿Quieres saber algo de mi? Mientras nos vamos conociendo 😍 ¡Te parece!
 👉Apasionada del **marketing, la comunicación y el emprendimiento**, y una mente inquieta que siempre está en busca de nuevos retos. ‼️ 
 🔗¡Hagamos algo juntos! 
 
