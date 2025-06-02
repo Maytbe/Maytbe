@@ -9,7 +9,7 @@
 
 🎯 Licenciada en **Marketing y Comunicación**  
 📈 Especialista en **Empleabilidad y Emprendimiento**  
-🏆 Más de X años de experiencia en sectores como **educación**, **agroalimentación** y **publicidad**, creando estrategias y soluciones innovadoras.  
+🏆 Más de 25 años de experiencia en sectores como **educación**, **agroalimentación** y **publicidad**, creando estrategias y soluciones innovadoras.  
 
 ## 🔥 Lo que me mueve  
 💡 Transformar ideas en proyectos exitosos  
