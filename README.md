@@ -1,6 +1,8 @@
 - # 🌟 ¡Hola, mundo!  
 
-## ⚡ ¿Si te apasiona el emprendimiento, la tecnología y la creatividad?, 🔗¡Hagamos algo juntos! ✨  Apasionada del **marketing, la comunicación y el emprendimiento**, y una mente inquieta que siempre está en busca de nuevos retos. ‼️ 
+## ⚡ ¿Si te apasiona el emprendimiento, la tecnología y la creatividad?
+🔗¡Hagamos algo juntos! 
+✨  Apasionada del **marketing, la comunicación y el emprendimiento**, y una mente inquieta que siempre está en busca de nuevos retos. ‼️ 
 
 ## 🚀 ¿Quién soy?  
 
